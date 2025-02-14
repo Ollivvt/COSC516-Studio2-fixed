@@ -1676,7 +1676,7 @@ MonoBehaviour:
     Value: 0
     Center: 0
     Range: {x: -90, y: 90}
-    Wrap: 1
+    Wrap: 0
     Recentering:
       Enabled: 0
       Wait: 1
